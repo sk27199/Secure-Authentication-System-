@@ -1,6 +1,6 @@
 # Secure-Authentication-System-
 
-This project is a secure authentication system I built using Python and SQLite. The aim of the project was to understand how user credentials should be handled securely in a real application, rather than just learning how to store data in a database.
+This project is a secure authentication system I built using Python and SQLite. The aim of the project was to understand how user credentials should be handled securely in a real application, rather than just learning how to store the data in a database.
 
 The system focuses on safe password handling , basic database design, and separating responsibilities between different parts of the application.
 
